@@ -22,6 +22,7 @@ namespace FabrikamResidences_Activities.Controllers
 
         public IActionResult About()
         {
+            _logger.LogInformation("About Page Viewed");
             ViewData["Message"] = "Your application description page.";
 
             return View();
