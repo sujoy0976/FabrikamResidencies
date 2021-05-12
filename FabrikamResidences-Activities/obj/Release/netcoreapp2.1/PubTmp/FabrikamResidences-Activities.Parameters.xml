@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="testappsujoy" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^F:\\PluralSight\\Azure\ App\ Service\\BEFORE\\FabrikamResidences-Activities\\obj\\Release\\netcoreapp2\.1\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>
